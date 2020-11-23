@@ -1,0 +1,1 @@
+gcc -fno-stack-protector exploit.c -o exploit
